@@ -13,7 +13,7 @@ Each card shows the city's population, its rank nationally and within its state,
   <img src="docs/images/card_preview_4.jpg" width="24%">
 </p>
 
-Full card set: [link to full set](#)
+Full card set: [link to full set]((https://drive.google.com/drive/folders/1Ay9x9GhGEjw26__JBksyI4mgwH7TV1FN?usp=sharing))
 
 Photo credits for the previews: Los Angeles, Unsplash / pemarroquinmtz. Chicago, Pixabay / pexels-2286921. Houston, Unsplash / mickeydziwulski. Phoenix, Pixabay / aiamkay-12007603. Credits for every card are in `data/processed/card_data_set_1.csv`.
 
