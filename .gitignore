@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+~$*
+.vscode/
+.idea/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.cache*
+
+# Secrets
+.env
+
+# Generated output and large design files
+outputs/
+*.psd
+*.ai

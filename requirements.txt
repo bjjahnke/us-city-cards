@@ -1,0 +1,9 @@
+pandas
+us
+geopy
+requests
+geopandas
+shapely
+matplotlib
+pillow
+jupyter
